@@ -1,6 +1,5 @@
 <div align="center">
      <img height="156" src="https://raw.githubusercontent.com/cborac/Silica-Framework/main/assets/logo.png">
-     <br> <br>
      <h1>Silica Bot Framework</h1>
      <p align="center">
      <a href="#"><img alt="Node 16.0.0" src="https://img.shields.io/badge/node-%3E%3D%2016.0.0-success?style=for-the-badge"></a>
