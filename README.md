@@ -1,3 +1,5 @@
+### ⚠️ This project is now archived: As Discord API rapidly changes, this framework has became obsolete very quickly. I suppose it can be kept updated with a little effort; but that effort ain't coming from me.
+<br><br>
 <div align="center">
      <img height="156" src="https://raw.githubusercontent.com/cborac/Silica-Framework/main/assets/logo.png">
      <h1>Silica Bot Framework</h1>
